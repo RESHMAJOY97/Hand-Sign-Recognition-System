@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262036193376",
+    "firebase_url": "https://hand-sign-recognition-system.firebaseio.com",
+    "project_id": "hand-sign-recognition-system",
+    "storage_bucket": "hand-sign-recognition-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262036193376:android:55408114e0f12763630305",
+        "android_client_info": {
+          "package_name": "com.example.HandSignRecognitionSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262036193376-t9bk9t6m7slhhm1lg9mm1nl0vrgskair.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.HandSignRecognitionSystem",
+            "certificate_hash": "e41b849b1b1c83132ee2a479a466928bdba1ba07"
+          }
+        },
+        {
+          "client_id": "262036193376-rutreef48m90b6qeefafuv20k7638t6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCFLw4W0XpLj0TJX2X3khdBuPDqw7110"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262036193376-rutreef48m90b6qeefafuv20k7638t6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
